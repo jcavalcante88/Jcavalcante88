@@ -1,5 +1,5 @@
 <div class="container">
-<img src="https://hermes.dio.me/articles/cover/cd74380b-4063-4568-b85e-f2d0d06fa2d1.jpg" align="center" style="margin-bottom:40px" width=180% left=140px src="https://github.com/Jcavalcante88/Jcavalcante88/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img src="https://hermes.dio.me/articles/cover/cd74380b-4063-4568-b85e-f2d0d06fa2d1.jpg" align="center" style="margin-bottom:10px" width=180% left=140px src="https://github.com/Jcavalcante88/Jcavalcante88/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">A Disposição da empresa, thank.</p>&nbsp;
