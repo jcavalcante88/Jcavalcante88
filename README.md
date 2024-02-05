@@ -8,7 +8,12 @@
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jcavalcante88&theme=radical&mode=weekly" />
 <img src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username=Jcavalcante88&show_icons=true&theme=radical&layout=compact" />
  
-<img src="https://github-readme-stats-Jcavalcante88.vercel.app/api/pin/?username=Jcavalcante88&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </div>
 </div>
  
