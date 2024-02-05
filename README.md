@@ -6,7 +6,7 @@
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jcavalcante88&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username=Jcavalcante88&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username= Jcavalcante88&show anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username=Jcavalcante88&show_icons=true&theme=radical&layout=compact" />
 </div>
 </div>
  
