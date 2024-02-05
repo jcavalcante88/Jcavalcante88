@@ -8,7 +8,7 @@
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jcavalcante88&theme=radical&mode=weekly" />
 <img src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username=Jcavalcante88&show_icons=true&theme=radical&layout=compact" />
  
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-git-main-Jcavalcante88.vercel.app/api/top-langs/?username=git-main-Jcavalcante88&layout=compact)](https://github.com/git-main-Jcavalcante88/github-readme-stats" />
 </div>
 </div>
  
