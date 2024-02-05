@@ -1,13 +1,13 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Jerry-C.-C.-Dores/Jerry-C.-C.-Dores/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100 px" width=100% src="https://github.com/Jerry-C.-C.-Dores/Jerry-C.-C.-Dores/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">A Disposição da empresa, thank.</p>&nbsp;
 
-<div align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jerry-C.-C.-Dores&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-Jerry-C.-C.-Dores.vercel.app/api/top-langs/?username=Jerry-C.-C.-Dores&show_icons=true&theme=radical&layout=compact" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
