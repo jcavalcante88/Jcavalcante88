@@ -109,7 +109,7 @@
 <hr />
 
 ## Contacts:
-![WHATS](https://img.shields.io/badge/WhatsApp-(11)99881707625D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![WHATS](https://img.shields.io/badge/WhatsApp-55(11)99881707625D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 <div> 
 <a href="https://www.instagram.com/Jerry_cavalcante_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
