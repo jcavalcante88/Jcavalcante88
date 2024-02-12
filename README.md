@@ -7,14 +7,15 @@
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jcavalcante88&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-seven-pied-77.vercel.app/api/top-langs/?username=Jcavalcante88&show_icons=true&theme=radical&layout=compact" />
- 
+
 </div>
 
  
  &nbsp;
  &nbsp;
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammMartins&theme=synthwave)](https://github.com/SammMartins) <br>
+<br> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!+I'm+Freddy+Hernandez;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 ## My Skills
 
