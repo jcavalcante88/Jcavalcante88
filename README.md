@@ -3,14 +3,14 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!+I'm+Freddy+Jcavalcante88;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 </div>
-<img src="https://hermes.dio.me/articles/cover/cd74380b-4063-4568-b85e-f2d0d06fa2d1.jpg" align="center" style="margin-bottom:70px" width=180% left=140px height=270px src="https://github.com/Jcavalcante88/Jcavalcante88/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img src="https://hermes.dio.me/articles/cover/cd74380b-4063-4568-b85e-f2d0d06fa2d1.jpg" align="center" style="margin-bottom=70px" width=180% left=140px height=270px src="https://github.com/Jcavalcante88/Jcavalcante88/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">A Disposição da empresa, thank.</p>&nbsp;
 
 
 
-<div align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom=100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jcavalcante88&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-seven-pied-77.vercel.app/api/top-langs/?username=Jcavalcante88&show_icons=true&theme=radical&layout=compact" />
 
