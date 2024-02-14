@@ -74,18 +74,20 @@
 ![UBU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WIN](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 <hr />
-💻 Terminal 🔝
+
+#### Terminal
 
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <hr />
-💻 Virtualização 🔝
+
+#### Virtualização
 
 
 ![VIRT](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 <hr />
-👨 Sociais 🔝
+#### Sociais
 
 
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -95,23 +97,26 @@
 <hr />
 
 
-🤖 Inteligência Artificial 🔝
+#### Inteligência Artificial
 
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <hr />
-📝Blog 🔝
+
+#### Blog
 
 
 ![Word](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 <hr />
-📚 Educação 🔝
+
+#### Educação
 
 
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![W3C](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
 <hr />
-🍔 Comida 🔝
+
+#### Comida
 
 
 ![IFOOD](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
