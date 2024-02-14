@@ -35,7 +35,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-🚀 Estruturas e Biblioteca 🔝
+####🚀 Estruturas e Biblioteca 🔝
 
 
 ![BOOT](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -57,7 +57,7 @@
 &nbsp;
 &nbsp;
 <hr />
-🤜 Grupo 🔝
+#### 🤜 Grupo 🔝
 
 
 ![DIS](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
