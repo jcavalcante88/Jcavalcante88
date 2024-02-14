@@ -17,7 +17,9 @@
 
 </div>
 
- ![ver](https://github-readme-stats.vercel.app/api?username=jcavalcante88&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<hr />
+
+![ver](https://github-readme-stats.vercel.app/api?username=jcavalcante88&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
  
  &nbsp;
  &nbsp;
