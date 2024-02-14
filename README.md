@@ -3,6 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!+I'm+Freddy+Jcavalcante88;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 </div>
+
 <img src="https://hermes.dio.me/articles/cover/cd74380b-4063-4568-b85e-f2d0d06fa2d1.jpg" align="center" style="margin-bottom=70px" width=180% left=140px height=270px src="https://github.com/Jcavalcante88/Jcavalcante88/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
@@ -26,7 +27,7 @@
 
 #### Main Stack:
 
-![](https://github-readme-stats.vercel.app/api?username=jcavalcante88&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![ver](https://github-readme-stats.vercel.app/api?username=jcavalcante88&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
