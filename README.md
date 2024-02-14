@@ -50,6 +50,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 <hr />
+
 #### Workstation Tools:
 
 
@@ -87,6 +88,7 @@
 ![VIRT](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 <hr />
+
 #### Sociais
 
 
